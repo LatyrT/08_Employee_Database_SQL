@@ -20,4 +20,4 @@ The data is coming from CSV files.
 * Load (SQL + pgAdmin)
 
 ## Results
-![GitHub Logo](002 - EmployeeSQL/2_EmployeeSQL_ERD.png)
+![GitHub Logo](2_EmployeeSQL_ERD.png)

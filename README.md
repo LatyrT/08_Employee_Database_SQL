@@ -1,7 +1,7 @@
 # 08_Employee_Database_SQL 
 
 <p align="center">
-  <img src="people-black-business-people-pf.jpg">
+  <img src="business_people.jpg">
 </p>
 
 In this assignment, we create a SQL database along with queries.

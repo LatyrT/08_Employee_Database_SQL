@@ -10,8 +10,8 @@ In this assignment, we create a SQL database along with queries.
 The data is coming from CSV files.
 
 
-## Pre-requisite(s)
-* The entire process must be automated
+## Assumption
+* The process is not automated.
 
 
 ## Methods
